@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **jwcrabb@hotmail.com**
 
-- 📄 Download my CV [https://www.dropbox.com/s/i80mo3y1ke455bg/JC%20CV%20May%202023.pdf?dl=1](https://www.dropbox.com/s/i80mo3y1ke455bg/JC%20CV%20May%202023.pdf?dl=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
