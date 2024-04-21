@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A recent Cyber Security and Digital Forensics graduate with a 2:1 honours degree from the University of the West of England, seeking to secure a role in the technology industry.</h3>
-
-- 🔭 I’m currently working on **Gym-Tracker**
 
 - 📫 How to reach me **jwcrabb@hotmail.com**
 
